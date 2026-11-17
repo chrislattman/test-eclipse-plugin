@@ -5,7 +5,7 @@ An Eclipse CDT plugin that sets a breakpoint on the line right after every
 `// mike breakpoint 2`. Lines that already have a breakpoint are skipped. You don't need
 a debug session: CDT sends the breakpoints to GDB when the session starts.
 
-It's the Eclipse port of the VS Code extension in `../test-vscode-extension`, and it needs
+It's the Eclipse port of the VS Code extension in `test-vscode-extension`, and it needs
 Eclipse with CDT (for example the "Eclipse IDE for C/C++ Developers" package).
 
 ## Choosing the name
